@@ -1,4 +1,5 @@
 # https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?select=chest_xray
+# 데이터 출처
 
 from google.colab import drive
 from google.colab import files
